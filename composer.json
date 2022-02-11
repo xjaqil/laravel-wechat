@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "illuminate/container": "^8.0",
+        "illuminate/container": "^9.0",
         "overtrue/wechat": "^5.0"
     },
     "require-dev": {
