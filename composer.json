@@ -16,7 +16,7 @@
     ],
     "require": {
         "illuminate/container": "^9.0",
-        "overtrue/wechat": "^5.0"
+        "overtrue/wechat": "^6.0"
     },
     "require-dev": {
         "laravel/framework": "^9.0",
